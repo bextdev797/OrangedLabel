@@ -1,2 +1,3 @@
-# OrangedLabel
-OrangedLabel is a extension where you can make your label orange.
+## OrangedLabel
+
+An App Inventor 2 extension created using Rush.
