@@ -1,5 +1,6 @@
 package com.brandonang.customorangedlabel;
-
+#NOTE: V2 is not open-source. V2 AIX is at the releases section.
+  
 import android.app.Activity;
 import android.content.Context;
 import com.google.appinventor.components.annotations.SimpleFunction;
